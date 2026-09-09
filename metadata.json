@@ -1,0 +1,6 @@
+{
+  "name": "Space pet",
+  "description": "Loja online Space Pet com produtos e acessórios para cães e gatos e compra segura via Stripe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
